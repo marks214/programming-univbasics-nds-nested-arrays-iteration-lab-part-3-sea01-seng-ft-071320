@@ -9,6 +9,7 @@ def join_nested_strings(src)
       end
     end
   end
+  puts string_data
   return string_data
 
 
