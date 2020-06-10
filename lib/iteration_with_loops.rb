@@ -10,7 +10,7 @@ def join_nested_strings(src)
     end
   end
   puts string_data
-  return string_data
+  return string_data.to_s
 
 
 end
